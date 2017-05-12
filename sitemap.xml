@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>http://theurbanfarmingguys.com/volunteer---collaborate.html</loc>
-    <lastmod>2017-05-08</lastmod>
+    <lastmod>2017-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -638,5 +638,11 @@
     <image:image>
       <image:loc>http://theurbanfarmingguys.com/images/ueyfgi4-crop-u629213.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://theurbanfarmingguys.com/assets/progress-bar.mulib</loc>
+    <lastmod>2016-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
