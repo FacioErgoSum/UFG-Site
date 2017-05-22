@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theurbanfarmingguys.com/index.html</loc>
-    <lastmod>2017-05-08</lastmod>
+    <lastmod>2017-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -33,12 +33,45 @@
       <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2693.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%202157x129.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%208159x114.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2695.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2696.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%202132x109.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%208134x96.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2697.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%202109x90.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%208110x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2698.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theurbanfarmingguys.com/images/comp%20cc%20asset%203-crop-u2699.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://theurbanfarmingguys.com/volunteer---collaborate.html</loc>
-    <lastmod>2017-05-20</lastmod>
+    <lastmod>2017-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
