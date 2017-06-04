@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="theurbanfarmingguys.com" resolutions="1x" timestamp="1496605438611">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="theurbanfarmingguys.com" resolutions="1x" timestamp="1496605683029">
   <folder name="css">
     <file name="site_global.css" crc="4165427551"/>
     <file name="index.css" crc="4115055532" ref="index"/>
     <file name="nomq_index.css" crc="174206616" ref="index"/>
-    <file name="volunteer---collaborate.css" crc="3914756459" ref="volunteer---collaborate"/>
-    <file name="nomq_volunteer---collaborate.css" crc="4143247226" ref="volunteer---collaborate"/>
+    <file name="volunteer---collaborate.css" crc="285748975" ref="volunteer---collaborate"/>
+    <file name="nomq_volunteer---collaborate.css" crc="4121431913" ref="volunteer---collaborate"/>
   </folder>
   <folder name="assets">
     <file name="progress-bar.mulib" crc="444348798" seo="true" mt="1452889108000"/>
@@ -3558,5 +3558,5 @@
     <file name="u29139-m18.png" crc="3896106484" ref="volunteer---collaborate"/>
   </folder>
   <file name="index.html" crc="3799845442" seo="true" mt="1495483116312" redirect="true"/>
-  <file name="volunteer---collaborate.html" crc="506899839" seo="true" mt="1496604986221" redirect="true"/>
+  <file name="volunteer---collaborate.html" crc="508808205" seo="true" mt="1496605630019" redirect="true"/>
 </manifest>
